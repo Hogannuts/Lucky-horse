@@ -1,0 +1,18 @@
+<!-- Image du cheval -->
+<img src="https://i.imgur.com/fySrE23.jpeg" alt="Tête de cheval rieur" class="mx-auto mb-6 rounded-full shadow-lg w-64 h-64 md:w-80 md:h-80">
+
+<p class="text-lg text-gray-700 mb-4">
+  La <span class="font-semibold text-green-600">chance du Cheval Rieur</span> vous sourit déjà ! Son rire attire la chance.
+</p>
+<p class="text-lg text-gray-700 mb-6">
+  Faites un don et recevez la bonne fortune du cheval rieur.
+</p>
+
+<!-- Bouton de don PayPal -->
+<a href="https://www.paypal.com/donate/?hosted_button_id=DSVAAPFDHAR3L" target="_blank" class="inline-block bg-yellow-500 text-white font-bold py-3 px-6 rounded-lg shadow-lg hover:bg-yellow-600 transition pulse">
+  lucky horse !
+</a>
+
+<p class="text-sm text-gray-500 mt-6">
+  La chance du Cheval Rieur
+</p>
